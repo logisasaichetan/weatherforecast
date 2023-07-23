@@ -1,0 +1,16 @@
+body{
+  margin: 0;
+  padding: 0;
+ 
+}
+header{
+    border: solid 2px black;
+    
+    background-color: green;
+}
+#forecast{
+  margin-top: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
